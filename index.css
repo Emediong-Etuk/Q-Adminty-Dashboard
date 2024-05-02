@@ -6,6 +6,10 @@
     color: grey;
 }
 
+.green{
+    color: rgba(0,255,0,0.7);
+}
+
 .orange-left{
     border-left: 3px solid orangered;
 }
@@ -14,20 +18,23 @@
      background: linear-gradient(to right, rgba(255,69,0,0.5), rgba(255,69,0,0.2));
 }
 
+.orange{
+    color:rgba(255, 69, 0,0.7);
+}
 .bgorange {
-    background: linear-gradient(to right, rgba(255, 69, 0, 0.7), rgba(255, 69, 0, 0.3));
+    background: rgba(64, 78, 103,0.7);
 }
 
 .bggreen {
-    background: linear-gradient(to right, rgba(0, 255, 0, 0.7), rgba(0, 255, 0, 0.3));
+    background: rgba(64, 78, 103,0.7);
 }
 
 .bgred {
-    background: linear-gradient(to right, rgba(128, 0, 0, 0.7), rgba(128, 0, 0, 0.3));
+    background: rgba(64, 78, 103,0.7);
 }
 
 .bgblue {
-    background: linear-gradient(to right, rgba(0, 0, 255, 0.7), rgba(0, 0, 255, 0.3));
+    background: rgba(64, 78, 103,0.7);
 }
 .bgwhite{
     background-color:white;
@@ -41,7 +48,7 @@
 }
 .green-blank{
     height: 250px !important;
-    background-color: rgba(0,255,0,0.4);
+    background-color:  rgba(64, 78, 103,0.4);
 }
 .greytext{
     color: grey;
